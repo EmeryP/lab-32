@@ -1,8 +1,6 @@
 ## Dynamic Forms
-
+Implementing restful methods in the Redux Store for the player schema. To view the app visit the code sandbox link below.
 
 ### Links and Resources
-* [Dynamic Forms Repo](https://codesandbox.io/s/k598vrp523)
+* [Dynamic Forms Code Sandbox](https://codesandbox.io/s/k598vrp523)
 
-#### UML
-Link to an image of the UML for your application and response to events
